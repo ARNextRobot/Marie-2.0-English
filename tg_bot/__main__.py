@@ -20,11 +20,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [André Ribas](tg://user?id={}).
+im a group manager bot maintained by  [Developer](tg://user?id={}).
 
 My future updates will be put into This Channel - @ARNextRobot.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Andreribas15/Marie-2.0-English/),
+This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/ARNextRobot/Marie-2.0-English/),
 you can create clone same like me..
 
 For more commands click /help...
