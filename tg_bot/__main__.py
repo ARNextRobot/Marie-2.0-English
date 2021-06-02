@@ -18,9 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
+Olá {}, meu nome é {}! 
 
-im a group manager bot maintained by  [Developer](tg://user?id={}).
+Sou um Bot de segurança e Ante-Spam para grupos desenvolvido por [André Ribas](tg://user?id=1021164941).
 
 My future updates will be put into This Channel - @ARNextRobot.
 
